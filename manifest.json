@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Amanah Delivery",
+  "short_name": "Amanah",
+  "description": "แอปสั่งอาหารและสินค้าในชุมชน",
+  "lang": "th",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f5f7f4",
+  "theme_color": "#075b45",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
